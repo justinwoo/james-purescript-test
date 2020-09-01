@@ -1,0 +1,10 @@
+{
+  "name": "james-purescript-test",
+  "set": "local",
+  "source": "packages.json",
+  "depends": [
+    "console",
+    "effect",
+    "prelude"
+  ]
+}
